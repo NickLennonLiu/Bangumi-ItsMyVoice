@@ -1,0 +1,12 @@
+[anime]
+anime_name = ""
+anime_folder = ""
+
+[tool]
+powershell = "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+mkvextract = "tools\\mkvtoolnix\\mkvextract.exe"
+mkvinfo = "tools\\mkvtoolnix\\mkvinfo.exe"
+ffmpeg = "tools\\QuickCut v1.8.0 (已包含FFmpeg)\\QuickCut\\ffmpeg.exe"
+
+[path]
+output_folder = "./output"

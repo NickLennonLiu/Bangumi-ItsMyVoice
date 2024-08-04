@@ -1,0 +1,7 @@
+tools/**
+flagged/
+
+__pycache__/
+output/
+
+config.toml
